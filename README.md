@@ -1,6 +1,7 @@
 # OneGet-Package-Installer.ps1 
 
-<p style="color:red"> Requires Windows 10</p>
+**Requires Windows 10**
+
 Sets up and downloads a list of packages, you can download the script and modify the list to your needs. This will also update packages, may be handy to run as a scheduled task.
 
 Execute the below code when running for the first time. This will add [Chocolatey](https://chocolatey.org/ "Chocolatey"), a Package Manager, to OneGet.
