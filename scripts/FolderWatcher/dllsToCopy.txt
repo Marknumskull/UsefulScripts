@@ -1,0 +1,3 @@
+\src\Azert.HttpClient.Framework\bin\Debug\Azert.HttpClient.Framework.dll
+\src\Azert.HttpClient.Framework\bin\Debug\Azert.HttpClient.Framework.dll.config
+\src\Azert.HttpClient.Framework\bin\Debug\Azert.HttpClient.Framework.pdb
