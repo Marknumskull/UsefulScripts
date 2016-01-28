@@ -1,17 +1,7 @@
-# OneGet-Package-Installer.ps1 
+# Useful Scripts
 
-**Requires Windows 10**
+This repo is a set of small scripts I have put together that I use on a daily basis to help automate my workload or that I have otherwise found handy.
 
-Sets up and downloads a list of packages, you can download the script and modify the list to your needs. This will also update packages, may be handy to run as a scheduled task.
+I plan on adding more as I create them, feel free to download and use as you please.
 
-Execute the below code when running for the first time. This will add [Chocolatey](https://chocolatey.org/ "Chocolatey"), a Package Manager, to OneGet.
-
-```
-OneGet-Package-Installer.ps1 -firstTime
-```
-
-Subsequent runs only need the below
-
-```
-OneGet-Package-Installer.ps1
-```
+The scripts are found in the _scripts_ folder with each script having its own folder. This contains the script, a readme.md and any other files that may be required.

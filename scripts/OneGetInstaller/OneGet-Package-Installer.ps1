@@ -7,7 +7,7 @@ Param(
     [switch]$firstTime = $false
 )
 
-$packages = "atom","path-copy-copy","Revo.Uninstaller","markdownpad2"
+$packages = "atom","path-copy-copy","Revo.Uninstaller","markdownpad2","ccleaner","obs","clover"
 
 if($firstTime){
     Set-ExecutionPolicy RemoteSigned
